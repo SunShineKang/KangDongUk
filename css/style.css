@@ -60,7 +60,7 @@ html {
 .header .inner ul li:nth-child(1) {
     color: red;
 }
-.header .inner ul li:nth-child(2) {
+.header .inner ul li:nth-child(2):hover {
     color: red;
 }
 .header .inner ul li:hover {
